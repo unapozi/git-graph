@@ -1,2 +1,3 @@
 Initial Commit
-Feature 3
+Feature 3 and Feature 4 combined
+
